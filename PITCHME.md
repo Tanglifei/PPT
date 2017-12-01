@@ -7,22 +7,24 @@ Industry Ph.D student @ ITM KTH
 ## Research Background
 
 Cloud computing is a trending topic nowadays, which typically present itself to customer as:
-- Infrastructure as a Service(IaaS)
-- Platform as a service(PaaS)
-- software as a service(SaaS) 
+ * Infrastructure as a Service(IaaS)
+ * Platform as a service(PaaS)
+ * software as a service(SaaS) 
 
-However, when it comes to industry domain, the story won't end at software but at hardware, which typically are various Industrial Internet of Things(IIOT)
-
----
-
-## Research Question
-How to achieve manufacturing as a service(MaaS) or hardware as a service(HaaS)
-Specifically how to construct a cloud platform that is able to abstract various IOT devices into manufacture services, provide infrastructure to manage and monitor these services and analyze data generated from them in an intelligent manner? 
+However, when it comes to industry domain, the story won't end at software but at hardware, which nowadays typically are various Industrial Internet of Things(IIOT)
 
 ---
 
-## Research Contents
-This doctoral project will study and evaluate existing industry cloud solutions, investigate requirements, research industry cloud architecture and cloud infrastructure technical stacks, explore modeling, simulation techniques and tools to describe, evaluate and deploy such systems.
+## Helicopter View Research Questions
+How to achieve manufacturing as a service(MaaS) or hardware as a service(HaaS), Specifically:
+ * Method to abstract various IOT devices into manufacture services 
+ * Architecture/Infrastructure to manage and monitor these services and data generated from them 
+ * Analyze data generated from them in an intelligent manner
+
+---
+
+## Research Topic 
+study and evaluate existing industry cloud solutions, investigate requirements, research industry cloud architecture and cloud infrastructure technical stacks, explore modeling, simulation techniques and tools to describe, evaluate and deploy such systems.
 
 ---
 
