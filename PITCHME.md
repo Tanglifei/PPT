@@ -5,15 +5,12 @@ Industry Ph.D student @ ITM KTH
 ---
 
 # Research design 
-- Find one or more suitable sources of information regarding research design (book, article, website)
-- Explain the research design that will be used in your thesis work in a short description of 3-6 pages and in 3-6 powerpoint slides
-
 Cloud computing is a trending topic nowadays, which typically present itself to customer as:
-* Infrastructure as a Service(IaaS)
-* Platform as a service(PaaS)  
-* software as a service(SaaS). 
+- Infrastructure as a Service(IaaS)
+- Platform as a service(PaaS)
+- software as a service(SaaS) 
 
-However, when it comes to industry domain, the story won't end at software but at hardware, which typically are various Industrial Internet of Things(IIOT) devices that are utilized to perform manufacturing in the factory. 
+However, when it comes to industry domain, the story won't end at software but at hardware, which typically are various Industrial Internet of Things(IIOT)
 
 ---
 
