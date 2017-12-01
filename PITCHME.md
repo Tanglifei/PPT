@@ -16,7 +16,7 @@ However, when it comes to industry domain, the story won't end at software but a
 ---
 
 ## Research Question
-Basing on current technology, how to achieve manufacturing as a service(MaaS) or hardware as a service(HaaS)
+How to achieve manufacturing as a service(MaaS) or hardware as a service(HaaS)
 Specifically how to construct a cloud platform that is able to abstract various IOT devices into manufacture services, provide infrastructure to manage and monitor these services and analyze data generated from them in an intelligent manner? 
 
 ---
