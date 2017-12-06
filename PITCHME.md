@@ -17,18 +17,30 @@ However, when it comes to industry domain, the story won't end at software but a
 
 ## Helicopter View Research Questions
 How to achieve manufacturing as a service(MaaS) or hardware as a service(HaaS), Specifically:
- * Method to abstract various IOT devices into manufacture services 
+ * Method to abstract various IIOT devices into manufacture services 
  * Architecture/Infrastructure to manage and monitor these services and data generated from them 
  * Analyze data generated from them in an intelligent manner
 
 ---
 
-## Research Topic 
-study and evaluate existing industry cloud solutions, investigate requirements, research industry cloud architecture and cloud infrastructure technical stacks, explore modeling, simulation techniques and tools to describe, evaluate and deploy such systems.
+## Narrow Down Research Topic 
+Start with a gap analyse paper, to build knowledge base and identify the specific research angle. 
+ * state of art
+ * state of practice
+ * state of future
+ * state of gap
 
 ---
 
-## Publication strategy
+## Target Journal & Conference
+
+
+---
+
+## Task Beak down
+
+study and evaluate existing industry cloud solutions, investigate requirements, research industry cloud architecture and cloud infrastructure technical stacks, explore modeling, simulation techniques and tools to describe, evaluate and deploy such systems.
+
 -Present your publication strategy in maximum 5 powerpoint slides, covering:
 *Important conferences for your group
 *Target journals for your research group
