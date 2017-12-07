@@ -1,23 +1,3 @@
-# Assignment 1
-
----
-
-## Research design 
-- Find one or more suitable sources of information regarding research design (book, article, website)
-- Explain the research design that will be used in your thesis work in a short description of 3-6 pages and in 3-6 powerpoint slides
-
-
-## Publication strategy
-Present your publication strategy in maximum 5 powerpoint slides, covering:
-*Important conferences for your group
-*Target journals for your research group
-*Time schedule for your publications
-*Co-authoring
-*Planned papers/articles
-*How the planned publications relate to your different studies
-
----
-
 # Lifei Tang  
 SW Developer @ Atlas Copco Industry Technique  
 Industry Ph.D student @ ITM KTH
@@ -43,17 +23,24 @@ Back grounded by Industry 4.0, high-level research question includes:
 
 ---
 
-## Research Questions Touch Wide knowledge domains
+## Research Questions Touch Wide Knowledge Domains
 * Industry 4.0 in general
 * Cloud manufacture modeling and architecture
-* Cyber-physical systems e.g. digital twin modeling
-* Cloud Infrastructure e.g. existing technical stack and use cases 
+* Cyber-physical systems e.g. digital twin
+* Cloud Infrastructure e.g. existing technical stack
 * Big data and Machine learning 
+* Communication 
+* Security
 
 ---
 
-## Narrow Down Research Topic Needed 
-Horizontal knowledge expansion during first 2-3 years,resulting a gap analyse paper and identify the specific research angle for vertically diving in for the rest 5 years.
+## T-shaped skills development strategy
+The research questions touch wide domains but specific research topic is necessary to accomplish Ph.D study,which is a challenge but perfect chance for T-sharped skills development:  
+Horizontal knowledge expansion during first 2-3 years(-),resulting a gap analyse paper and identify the specific research angle for vertically diving in for the rest 5 years(|).
+
+---
+
+## Gap analyse paper 
  * state of art
  * state of practice
  * state of future
@@ -70,6 +57,10 @@ Horizontal knowledge expansion during first 2-3 years,resulting a gap analyse pa
 ---
 
 ## Target Journal & Conference
+* Journal of System and software
+* Journal of system engineering
+* Cyber-Physical Systems(iccps)
+* The International Conference on Information Processing in Sensor Networks(ipsn)
 * International Journal of Computer Integrated Manufacturing
 * Journal of Manufacturing Science and Engineering
 * Journal of Manufacturing Systems
