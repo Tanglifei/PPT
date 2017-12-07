@@ -1,6 +1,6 @@
-## Lifei Tang  
-SW Developer @ Atlas Copco Industry Technique  
-Industry Ph.D student @ ITM KTH
+**Lifei Tang**  
+*SW Developer @ Atlas Copco Industry Technique*  
+*Industry Ph.D student @ ITM KTH*
 
 ---
 
@@ -36,7 +36,7 @@ Back grounded by Industry 4.0, high-level research question includes:
 
 ### T-shaped skills development strategy
 The research questions touch wide domains but specific research topic is necessary to accomplish Ph.D study,which is a challenge but perfect chance for T-sharped skills development:  
-Horizontal knowledge expansion during first 2-3 years(-),resulting a gap analyse paper and identify the specific research angle for vertically diving in for the rest 5 years(|).
+Horizontal knowledge expansion during first 2-3 years,resulting a gap analyse paper and identification of the specific research angle for vertically diving in for the rest 5 years.
 
 ---
 
@@ -49,7 +49,7 @@ Horizontal knowledge expansion during first 2-3 years(-),resulting a gap analyse
 ---
 
 ### Publication&Study Time Plan
- * Spend first 2-3 out of 8 years on building knowledge and define specific research angle
+ * Spend first 2-3 out of 8 years on building knowledge and define the specific research angle
  * Aiming at have the gap analyse paper ready at year 2
  * State of art paper as intermediate paper at year 1
  * Plan to and attend courses intensively during first 2-3 years to facilitate build knowledge base 
@@ -57,12 +57,12 @@ Horizontal knowledge expansion during first 2-3 years(-),resulting a gap analyse
 ---
 
 ### Target Journal & Conference
-* Journal of System and software
-* Journal of system engineering
-* Cyber-Physical Systems(iccps)
-* The International Conference on Information Processing in Sensor Networks(ipsn)
-* International Journal of Computer Integrated Manufacturing
-* Journal of Manufacturing Science and Engineering
-* Journal of Manufacturing Systems
-* CIRP Conference on Manufacturing Systems
-* Swedish Production Symposium  
+ * Journal of System and software
+ * Journal of system engineering
+ * Cyber-Physical Systems(iccps)
+ * The International Conference on Information Processing in Sensor Networks(ipsn)
+ * International Journal of Computer Integrated Manufacturing
+ * Journal of Manufacturing Science and Engineering
+ * Journal of Manufacturing Systems
+ * CIRP Conference on Manufacturing Systems
+ * Swedish Production Symposium  
