@@ -4,7 +4,7 @@ Industry Ph.D student @ ITM KTH
 
 ---
 
-#### Research Background
+### Research Background
 
 Cloud computing is a trending topic nowadays, which typically present itself to customer as:
  * Infrastructure as a Service(IaaS)
@@ -15,7 +15,7 @@ However, when it comes to industry domain, the story won't end at software but a
 
 ---
 
-#### Helicopter View Research Questions
+### Helicopter View Research Questions
 Back grounded by Industry 4.0, high-level research question includes: 
  * Methods and Architecture to achieve manufacturing as a service(MaaS) or hardware as a service(HaaS).
  * Infrastructure to manage and monitor these services and data generated from them. 
@@ -23,7 +23,7 @@ Back grounded by Industry 4.0, high-level research question includes:
 
 ---
 
-#### Research Questions Touch Wide Knowledge Domains
+### Research Questions Touch Wide Knowledge Domains
 * Industry 4.0 in general
 * Cloud manufacture modeling and architecture
 * Cyber-physical systems e.g. digital twin
@@ -34,13 +34,13 @@ Back grounded by Industry 4.0, high-level research question includes:
 
 ---
 
-#### T-shaped skills development strategy
+### T-shaped skills development strategy
 The research questions touch wide domains but specific research topic is necessary to accomplish Ph.D study,which is a challenge but perfect chance for T-sharped skills development:  
 Horizontal knowledge expansion during first 2-3 years(-),resulting a gap analyse paper and identify the specific research angle for vertically diving in for the rest 5 years(|).
 
 ---
 
-#### Gap analyse paper 
+### Gap analyse paper 
  * state of art
  * state of practice
  * state of future
@@ -48,7 +48,7 @@ Horizontal knowledge expansion during first 2-3 years(-),resulting a gap analyse
 
 ---
 
-#### Publication&Study Time Plan
+### Publication&Study Time Plan
  * Spend first 2-3 out of 8 years on building knowledge and define specific research angle
  * Aiming at have the gap analyse paper ready at year 2
  * State of art paper as intermediate paper at year 1
@@ -56,7 +56,7 @@ Horizontal knowledge expansion during first 2-3 years(-),resulting a gap analyse
 
 ---
 
-#### Target Journal & Conference
+### Target Journal & Conference
 * Journal of System and software
 * Journal of system engineering
 * Cyber-Physical Systems(iccps)
