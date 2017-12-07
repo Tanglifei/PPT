@@ -11,7 +11,7 @@ Cloud computing is a trending topic nowadays, which typically present itself to 
  * Platform as a service(PaaS)
  * software as a service(SaaS) 
 
-However, when it comes to industry domain, the story won't end at software but at hardware, which nowadays typically are various Industrial Internet of Things(IIOT) aka Cyber Physical Systems(CPS) 
+However, when it comes to industry domain, the story won't end at software but at hardware, which nowadays are typically various Industrial Internet of Things(IIOT) a.k.a. Cyber Physical Systems(CPS) 
 
 ---
 
