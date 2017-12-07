@@ -37,7 +37,7 @@ Back grounded by Industry 4.0, high-level research question includes:
 ### T-shaped skills development strategy
 The research questions touch wide domains but specific research topic is necessary to accomplish Ph.D study, which is a challenge but perfect chance for T-sharped skills development:  
 
-Horizontal knowledge expansion during first 2-3 years,resulting a gap analyse paper and identification of the specific research angle for vertically diving in for the rest 5 years.
+Horizontal knowledge expansion during first 2-3 years, resulting a gap analyse paper and identification of the specific research angle for vertically diving in for the rest 5 years.
 
 ---
 
