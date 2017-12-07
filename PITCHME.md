@@ -1,4 +1,4 @@
-**Lifei Tang**  
+### Lifei Tang  
 *SW Developer @ Atlas Copco Industry Technique*  
 *Industry Ph.D student @ ITM KTH*
 
