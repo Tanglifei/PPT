@@ -42,8 +42,9 @@ Horizontal knowledge expansion during first 2-3 years, resulting a gap analyse p
 ---
 
 ### Gap analyse paper 
- * state of art
- * state of practice
+Gap analyse paper to find the gap which can be potential specific researching angle
+ * state of art (Literature review)
+ * state of practice (case study, interview)
  * state of future
  * state of gap
 
